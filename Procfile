@@ -1,1 +1,1 @@
-web: gunicorn django_tutorial0.wsgi --log-file -
+web: gunicorn DjangoProject.wsgi --log-file -
